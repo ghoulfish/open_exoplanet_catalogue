@@ -1,0 +1,32 @@
+<system>
+	<name>HD 222076</name>
+	<rightascension>23 38 07</rightascension>
+	<declination>-70 54 12</declination>
+	<distance errorminus="4.30" errorplus="4.30">83.50</distance>
+	<star>
+		<name>HD 222076</name>
+		<mass errorminus="0.25" errorplus="0.25">1.07</mass>
+		<radius errorminus="0.60" errorplus="0.60">4.10</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.459</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.523</magB>
+		<magJ errorminus="0.020" errorplus="0.020">5.752</magJ>
+		<magH errorminus="0.053" errorplus="0.053">5.297</magH>
+		<magK errorminus="0.027" errorplus="0.027">5.127</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4806.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">0.050</metallicity>
+		<spectraltype>K0 III</spectraltype>
+		<planet>
+			<name>HD 222076 b</name>
+			<mass errorminus="0.11000" errorplus="0.11000" type="Msini">1.56000</mass>
+			<period errorminus="19.00000000" errorplus="19.00000000">871.00000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">1.830000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.080000</eccentricity>
+			<periastron errorminus="60.0000" errorplus="60.0000">241.0000</periastron>
+			<periastrontime errorminus="189.000000" errorplus="189.000000">2454264.000000</periastrontime>
+			<maximumrvtime errorminus="189.000000" errorplus="189.000000">2454264.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>
